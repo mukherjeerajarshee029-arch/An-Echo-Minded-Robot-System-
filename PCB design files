@@ -1,0 +1,11 @@
+PCB design 
+PCB concept for your EchoMinded Robot, designed around an Arduino-compatible controller with sensor and motor connections.
+Important: This is a visual concept, not a verified manufacturing-ready PCB. Before making the physical board in KiCad 10.0, the schematic, footprints, power supply, and PCB tracks must be checked.
+The design includes:
+- Arduino-compatible ATmega328P controller
+- L298N motor-driver section
+- Ultrasonic sensor connector
+- MQ-2 gas sensor connector
+- Temperature and rain sensor connectors
+- RGB LED, buzzer, and servo connectors
+- Battery input and 5V regulator
