@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 2 | 15.21h | 4 |
+| Week 1 | Tier 2 | 19.21h | 4 |
 
 ## Contents
 
@@ -53,7 +53,7 @@
 
 ### 2026-10-11 – ![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/TXpMJfrquqz6WSqY6w1XN518aq0jVfAB/080833ea2f6d8e0594fdc4962376730b1f248367762846944381abeb56ae7638.png)
 
-**4h**
+**8h**
 
 ![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/TXpMJfrquqz6WSqY6w1XN518aq0jVfAB/080833ea2f6d8e0594fdc4962376730b1f248367762846944381abeb56ae7638.png)
 
@@ -65,3 +65,8 @@
 done the pcb design where the name is Echo Minded Robot I am trying to make a Echomind Robot which helps in avoiding obstacle and remember everything happening in their surrounds
  It will also help us in Audio Ingesion , Edge Ai processing and storage , Audio output and indications
 I am thinking about doing this If u allow me I can continue my work on it
+
+![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/TXpMJfrquqz6WSqY6w1XN518aq0jVfAB/d46f5eee3a2999b45c001d5c62ff3d2d17b29aea9471e3feca7dc4708f1974f3.png)
+![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/TXpMJfrquqz6WSqY6w1XN518aq0jVfAB/cdc16a6b41460982562d25a6b4d13b12b1c11a5cfcc3636c5fb4c7c781d945a7.png)
+![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/TXpMJfrquqz6WSqY6w1XN518aq0jVfAB/814537b1c97e2661d0ca7ac0959ff202b0d7e522f01afe4e8094a34ab7b550b2.png)
+![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/TXpMJfrquqz6WSqY6w1XN518aq0jVfAB/82d50457be32416bb966e0aa7541cd1978d8eefb3ce441836e94403a985ed200.png)
