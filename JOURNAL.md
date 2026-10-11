@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 2 | 19.21h | 4 |
+| Week 1 | Tier 2 | 20.21h | 4 |
 
 ## Contents
 
@@ -35,7 +35,7 @@
 
 ### 2026-10-11 – ![PCB design of the Echo minded Robot](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/TXpMJfrquqz6WSqY6w1XN518aq0jVfAB/4c28b001d2b1f20401980ae24c58f0c4cd9f3cc65d0614353777450eaabc0a8
 
-**5h**
+**6h**
 
 ![PCB design of the Echo minded Robot](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/TXpMJfrquqz6WSqY6w1XN518aq0jVfAB/4c28b001d2b1f20401980ae24c58f0c4cd9f3cc65d0614353777450eaabc0a8c.png)
 
@@ -50,6 +50,8 @@
 ![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/TXpMJfrquqz6WSqY6w1XN518aq0jVfAB/270f43041b1648a38d196b38358f00db1eba506257eee187884286ae4fb5536e.png)
 
 ![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/TXpMJfrquqz6WSqY6w1XN518aq0jVfAB/ab8ef77453247351631ee786f7192d28eaedc9b9d6fe6413c7a4052842a6d949.png)
+
+![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/TXpMJfrquqz6WSqY6w1XN518aq0jVfAB/d46f5eee3a2999b45c001d5c62ff3d2d17b29aea9471e3feca7dc4708f1974f3.png)
 
 ### 2026-10-11 – ![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/TXpMJfrquqz6WSqY6w1XN518aq0jVfAB/080833ea2f6d8e0594fdc4962376730b1f248367762846944381abeb56ae7638.png)
 
