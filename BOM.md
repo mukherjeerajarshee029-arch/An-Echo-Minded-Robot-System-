@@ -14,7 +14,7 @@
 | --- | --- | --- | --- | --- | --- |
 | [Custom 2-layer FR-4 PCB](https://www.flipkart.com/electrobot-professional-3d-printer-cnc-kit-arduino-uno-r3-shield-v3-stepper-motor-driver-mechanical-switch-endstop-electronic-components-hobby/p/itme5a0245fd59f4?pid=EHKFWNYGKKRDRJFW&lid=LSTEHKFWNYGKKRDRJFWEJ2CLA&marketplace=FLIPKART&q=Custom+2-layer+FR-4+PCB&store=tng%2Ft4r&srno=s_1_1&otracker=search&otracker1=search&fm=organic&iid=ffe73421-9744-44d0-b65c-6bb15b436f48.EHKFWNYGKKRDRJFW.SEARCH&ppt=dynamic&ppn=Login%3ACategory_List&ssid=mcw4g81i9s0000001791774533791&qH=cd8ad8832b631f55&ov_redirect=true&ov_redirect=true) | PCB design | 1 | $11.00 | $11.00 | [flipkart](https://www.flipkart.com/electrobot-professional-3d-printer-cnc-kit-arduino-uno-r3-shield-v3-stepper-motor-driver-mechanical-switch-endstop-electronic-components-hobby/p/itme5a0245fd59f4?pid=EHKFWNYGKKRDRJFW&lid=LSTEHKFWNYGKKRDRJFWEJ2CLA&marketplace=FLIPKART&q=Custom+2-layer+FR-4+PCB&store=tng%2Ft4r&srno=s_1_1&otracker=search&otracker1=search&fm=organic&iid=ffe73421-9744-44d0-b65c-6bb15b436f48.EHKFWNYGKKRDRJFW.SEARCH&ppt=dynamic&ppn=Login%3ACategory_List&ssid=mcw4g81i9s0000001791774533791&qH=cd8ad8832b631f55&ov_redirect=true&ov_redirect=true) |
 | **Parts subtotal** | — | — | — | **$11.00** | — |
-| **Tax & shipping** | — | — | — | **$55.00** | — |
-| **Total** | — | — | — | **$66.00** | — |
+| **Tax & shipping** | — | — | — | **$65.00** | — |
+| **Total** | — | — | — | **$76.00** | — |
 
-**$1.00 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+**$11.00 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
