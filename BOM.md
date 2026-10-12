@@ -12,10 +12,9 @@
 
 | Part | What it's for | Qty | Unit | Total | Vendor |
 | --- | --- | --- | --- | --- | --- |
-| [Arduino UNO r3](https://robu.in/product/arduino-uno-r3/) | main controller | 1 | $2.00 | $2.00 | [robu](https://robu.in/product/arduino-uno-r3/) |
 | [Custom 2-layer FR-4 PCB](https://robu.in/product/swyamr-diy-wifi-2-way-fan-speed-controller-pcb-board-custom-firmware-android-app-support-no-hub-required-esp8266-electrical-safety-alexa-and-google-voice-assistant-support/) | design | 2 | $11.00 | $22.00 | [robu](https://robu.in/product/swyamr-diy-wifi-2-way-fan-speed-controller-pcb-board-custom-firmware-android-app-support-no-hub-required-esp8266-electrical-safety-alexa-and-google-voice-assistant-support/) |
-| **Parts subtotal** | — | — | — | **$24.00** | — |
+| **Parts subtotal** | — | — | — | **$22.00** | — |
 | **Tax & shipping** | — | — | — | **$55.00** | — |
-| **Total** | — | — | — | **$79.00** | — |
+| **Total** | — | — | — | **$77.00** | — |
 
-**$14.00 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+**$12.00 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
