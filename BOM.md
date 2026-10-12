@@ -17,7 +17,7 @@
 | [Red LED](https://robu.in/product/3v-red-led-indicator-5mm-light-with-20cmcable-pack-of-5/) | led | 1 | $0.20 | $0.20 | [robu](https://robu.in/product/3v-red-led-indicator-5mm-light-with-20cmcable-pack-of-5/) |
 | [5 V active buzzer](https://obu.in/product/tmb9055-05-cldz-electromagnetic-active-integrated-buzzer-5v9-6x5-5mm/) | buzzer | 1 | $1.00 | $1.00 | [robu](https://obu.in/product/tmb9055-05-cldz-electromagnetic-active-integrated-buzzer-5v9-6x5-5mm/) |
 | **Parts subtotal** | — | — | — | **$1.50** | — |
-| **Tax & shipping** | — | — | — | **$55.00** | — |
-| **Total** | — | — | — | **$56.50** | — |
+| **Tax & shipping** | — | — | — | **$0.50** | — |
+| **Total** | — | — | — | **$2.00** | — |
 
-$8.50 left of the tier's funding.
+$63.00 left of the tier's funding.
