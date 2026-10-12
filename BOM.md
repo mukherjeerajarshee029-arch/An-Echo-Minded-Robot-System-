@@ -16,7 +16,7 @@
 | [Green LED](https://robu.in/product/5mm-green-surface-mount-led-pack-of-50/) | LED | 1 | $0.20 | $0.20 | [robu](https://robu.in/product/5mm-green-surface-mount-led-pack-of-50/) |
 | [Red LED](https://robu.in/product/3v-red-led-indicator-5mm-light-with-20cmcable-pack-of-5/) | led | 1 | $0.20 | $0.20 | [robu](https://robu.in/product/3v-red-led-indicator-5mm-light-with-20cmcable-pack-of-5/) |
 | **Parts subtotal** | — | — | — | **$0.50** | — |
-| **Tax & shipping** | — | — | — | **$100.00** | — |
-| **Total** | — | — | — | **$100.50** | — |
+| **Tax & shipping** | — | — | — | **$65.00** | — |
+| **Total** | — | — | — | **$65.50** | — |
 
-**$35.50 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+**$0.50 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
