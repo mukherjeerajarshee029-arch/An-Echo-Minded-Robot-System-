@@ -30,7 +30,7 @@
 | [Electronics flux](https://robu.in/product/flux-50g-soldering-paste/) | electronics | 1 | $3.00 | $3.00 | [robu](https://robu.in/product/flux-50g-soldering-paste/) |
 | [Nylon spacers](https://robu.in/product/m310mm-male-to-female-nylon-hex-spacer-10pcs-copy/) | spacers | 4 | $1.00 | $4.00 | [robu](https://robu.in/product/m310mm-male-to-female-nylon-hex-spacer-10pcs-copy/) |
 | **Parts subtotal** | — | — | — | **$31.15** | — |
-| **Tax & shipping** | — | — | — | **$0.50** | — |
-| **Total** | — | — | — | **$31.65** | — |
+| **Tax & shipping** | — | — | — | **$20.00** | — |
+| **Total** | — | — | — | **$51.15** | — |
 
-$33.35 left of the tier's funding.
+$13.85 left of the tier's funding.
